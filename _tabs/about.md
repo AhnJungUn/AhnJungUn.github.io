@@ -11,7 +11,7 @@ lastmod: 2024-01-19T02:27:27.790Z
 | [Email](mailto:wjddjs1102@naver.com) / [Linkedin](https://linkedin.com/in/acorn421/) / [Github](https://github.com/AhnJungUn) <br> [CV(Long)](/assets/pdf/cv_kim_long.pdf) / [CV(Short)](/assets/pdf/cv_kim_short.pdf)|
 -->
 
-| <img src="/assets/img/profile.png">
+| <img src="/assets/img/profile.png" alt="profile">
 | [Email](mailto:wjddjs1102@naver.com) / [Github](https://github.com/AhnJungUn) |
 
 
