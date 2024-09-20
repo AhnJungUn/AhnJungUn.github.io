@@ -21,30 +21,49 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Work Experience
 
-
-|            **Company**             |       **Period**        |
 |:-----------------------------------|------------------------:|
 | **R.O.K. Cyber Operation Command** | **Dec. 2022 – Present** |
 | *Security Engineer*                |          *Seoul, Korea* |
 
--    Performed **vulnerability assessments** for R.O.K. military IT
-    infrastructure.
--    Worked as a **red team** during R.O.K. military cyber operation
-    exercises.
--    Conducted **cybersecurity management ability assessment** for
-    public institutions in South Korea.
--    Keywords: Red team, Web hacking, Reverse engineering, Binary
-    exploitation, APT attack
--    Frameworks/Tools: Metasploit, Burp suite, IDA, WinDBG, Cobalt
-    strike, Nmap, Python, C/C++, Powershell
+-    Performed **Vulnerability Assessments** for R.O.K. military IT
+     infrastructure.
+-    Worked as a **Red Team** during R.O.K. military cyber operation
+     exercises.
+-    Implemented cyber **attack tactics** by chaining multiple exploited 
+     vulnerabilities and assessed the cyber defense capabilities of 
+     the R.O.K Military. 
+-    Keywords: Red Team, System Hacking, Web Hacking, Reverse Engineering,
+     Binary Exploitation, Windows Application, Cyber Attack Tactics, 
+     Attack Concealment, APT Attack
+-    Frameworks/Tools: IDA, WinDBG, Powershell, Burp Suite, Metasploit,
+     CobaltStrike, wireshark, Python, C/C++
 
 
-|<img width=200/>|<img width=500/>|
+|:------------------------------------|--------------------------:|
+| **R.O.K.A. Cyber Operation Center** | **Jul. 2020 – Dec. 2022** |
+| *Security Engineer*                 |       *Pyeongtaek, Korea* |
+
+-    Performed **Incident Response & Vulnerability Response** for 
+     R.O.K.A military IT infrastructure.
+-    Worked as a **Blue Team** during R.O.K. military cyber operation
+     exercises.
+-    Implemented **malware analyses** and conducted **forensic artifact analysis**
+     on endpoints and servers, while fulfilling the R.O.K.A internal 
+     Red Team role and proactively patching multiple vulnerabilities.
+-    Created an **incident response manual** and distributed it to 
+     all units of the R.O.K.A, and developed an **malware analysis tool**
+     integrating IDA and Debugger to achieve **automation** of tasks.
+-    Keywords: Blue Team, Malware Analysis, Windows Forensic, Reverse Engineering,
+     Incident Response, Threat Hunting
+-    Frameworks/Tools: IDA, WinDBG, IDAPython, FTK Imager, AXIOM, 
+     Volatility, REGA, NTFS Log Tracker, wireshark, Python
+
+
 |:-----------------------------------|--------------------------:|
-| **Agency For Defense Development** | **Jul. 2017 – Sep. 2022** |
+| **Agency For Defense Development** | **Jul. 2018 – Jun. 2020** |
 | *Security Researcher*              |            *Seoul, Korea* |
 
-**Research on National-level cyberattack defense technologies**\\
+**Research on Malware Traffic Through Symbolic Execution**\\
 *Jan. 2021 – Sep. 2022*
 
 -    Goal: Organize adversaries’ cyberattack operations into attack
@@ -59,7 +78,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Frameworks/Tools: MITRE ATT&CK, bnlearn, ONOS
 -    Language: Python, R, Javascript
 
-**Research on techniques for evaluating binary fuzzing results** \\
+**Develope Cyber A&D Training System** \\
 *Jan. 2018 – Oct. 2020*
 
 -    Goal: Develop techniques to analyze and evaluate crashes
@@ -74,50 +93,24 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
     Valgrind
 -    Language: Python, C/C++, Javascript
 
-**Research on cyber threat analysis and countermeasures for warship systems**\\
-*Jul. 2017 – Dec. 2017*
-
--    Conducted threat analysis and proposed countermeasures for
-    R.O.K. navy warship information systems based on NIST standards.
--    Keywords: Threat analysis, Risk management, NIST SP 800-53,
-    NIST SP 800-37, NIST SP 800-30
-
-|<img width=200/>|<img width=500/>|
-|:----------------------------------|--------------------------:|
-| **Plain Bagel, Inc**              | **Mar. 2015 – Feb. 2017** |
-| *Full Stack Developer(Part-time)* |            *Seoul, Korea* |
-
-**Slidee: Platform for editing and sharing YouTube video stills** \\
-*Mar. 2015 – Feb. 2017*
-
--    Built a web-based editor to convert YouTube videos into
-    screenshots with captions.
--    Built a web platform to share user-generated content.
--    Implemented an ELK-based user and service statistics analysis
-    server.
--    Optimized cloud hosting and databases for reliable service and
-    cost optimization.
--    Framework/Tools: React, Redux, Express.js, MongoDB, ELK stack,
-    AWS, Google Analytics
--    Language: Python, Javascript, Node.js
 
 ## Education
 
 |:----------------------------------|--------------------------:|
-| **Korea University**            | **Sep. 2018 – Present** |
+| **Korea University**            | **Sep. 2019 – Present** |
 |:----------------------------------|--------------------------:|
 | *Ph.D. in Information Security* |          *Seoul, Korea* |
-| Advisor: Prof. Jiwon Yoon       | [Website](https://signal.korea.ac.kr) |
+| Advisor: Prof. Jiwon Yoon       | [Website](https://signal.korea.ac.kr)|
 
 |:----------------------------------|--------------------------:|
-| **Korea University**    | **Mar. 2013 – Feb. 2017** |
+| **Korea University**    | **Mar. 2014 – Feb. 2018** |
 |:----------------------------------|--------------------------:|
 | *B.S. in Cyber Defense* |            *Seoul, Korea* |
 
 
-| **Hansung Science High School** | **Mar. 2011 – Feb 2013** |
-|:----------------------------------|--------------------------:|
-|                                 |           *Seoul, Korea* |
+| **HANKUK ACADEMY OF FOREIGN STUDIES** | **Mar. 2011 – Feb 2014** |
+|:--------------------------------------|-------------------------:|
+|                                       |          *YongIn, Korea* |
 
 ## Publications
 
