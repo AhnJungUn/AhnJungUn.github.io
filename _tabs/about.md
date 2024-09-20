@@ -21,9 +21,10 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Work Experience
 
-|<img width=200/>|<img width=500/>
+
+|            **Company**             |       **Period**        |
 |:-----------------------------------|------------------------:|
-| **R.O.K. Cyber Operation Command** | **Oct. 2022 – Present** |
+| **R.O.K. Cyber Operation Command** | **Dec. 2022 – Present** |
 | *Security Engineer*                |          *Seoul, Korea* |
 
 -    Performed **vulnerability assessments** for R.O.K. military IT
@@ -36,6 +37,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
     exploitation, APT attack
 -    Frameworks/Tools: Metasploit, Burp suite, IDA, WinDBG, Cobalt
     strike, Nmap, Python, C/C++, Powershell
+
 
 |<img width=200/>|<img width=500/>|
 |:-----------------------------------|--------------------------:|
