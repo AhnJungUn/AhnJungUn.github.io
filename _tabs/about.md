@@ -63,23 +63,22 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | **Agency For Defense Development** | **Jul. 2018 – Jun. 2020** |
 | *Security Researcher*              |            *Seoul, Korea* |
 
-**Research on Malware Traffic Through Symbolic Execution**\\
-*Jan. 2021 – Sep. 2022*
+**Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution**\\
+*Mar. 2019 – Jun. 2020*
 
--    Goal: Organize adversaries’ cyberattack operations into attack
-    chains, categorize them into appropriate campaigns, and respond
-    automatically to disrupt the attacker’s ultimate goals.
--    Researched predicting the next attack using Bayesian network
-    and MITRE ATT&CK.
--    Implemented network-level and host-level automatic defense
-    using SDN.
--    Keywords: APT Attack, Automatic response, MITRE ATT&CK,
-    Bayesian Network, SDN
--    Frameworks/Tools: MITRE ATT&CK, bnlearn, ONOS
--    Language: Python, R, Javascript
+-    Goal: Analyzing the function-based branches of malware communicating 
+     with C2 servers to track C2 traffic at the application level rather 
+     than the monitoring networks.
+-    Applying symbolic execution starting from functions that receive data (e.g., recv, read) 
+     to generate data needed to reach the final function based on its specific functionality.
+-    Utilizing C2 server traffic data for the Cyber A&D Training System.
+-    Keywords: Malware Traffic, Symbolic Execution, Malware Analysis, MITRE ATT&CK,
+     C2 Dataset
+-    Frameworks/Tools: IDA, Triton, Windbg, MITRE ATT&CK
+-    Language: Python, C/C++
 
-**Develope Cyber A&D Training System** \\
-*Jan. 2018 – Oct. 2020*
+**Development of a Cyber A&D Training System** \\
+*Jul. 2018 – Feb. 2019*
 
 -    Goal: Develop techniques to analyze and evaluate crashes
     generated from software fuzzing to identify root causes and
@@ -100,7 +99,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | **Korea University**            | **Sep. 2019 – Present** |
 |:----------------------------------|--------------------------:|
 | *Ph.D. in Information Security* |          *Seoul, Korea* |
-| Advisor: Prof. Jiwon Yoon       | [Website](https://signal.korea.ac.kr)|
+| Advisor: Prof. Sangjin Lee       | [Website](https://signal.korea.ac.kr)|
 
 |:----------------------------------|--------------------------:|
 | **Korea University**    | **Mar. 2014 – Feb. 2018** |
@@ -120,23 +119,8 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
     International Symposium on Research in Attacks, Intrusions, and
     Defenses (RAID), 2023
 
--    **BAN: Predicting APT Attack Based on Bayesian Network With MITRE
-    ATT&CK Framework.** \\
-    **Youngjoon Kim**, Insup Lee, Hyuk Kwon, Gyeongsik Lee, and Jiwon
-    Yoon \\
-    IEEE Access, 2023
 
--    **A new approach to training more interpretable model with
-    additional segmentation.** \\
-    Sunguk Shin, **Youngjoon Kim** and Jiwon Yoon \\
-    Pattern Recognition Letters, 2021
-
--    **Maxafl: Maximizing code coverage with a gradient-based
-    optimization technique.** \\
-    **Youngjoon Kim** and Jiwon Yoon \\
-    Electronics, 2020
-
-## Domestic Patents
+## Awards
 
 -    **DEVICE AND METHOD FOR DATA-ORIENTED ATTACK DETECTION AND RECOVERY
     FOR ROBOTIC VEHICLES BASED ON SAFETY-CRITICAL VARIABLES
@@ -151,18 +135,16 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Other Experiences
 
-|<img width=200/>|<img width=500/>|
 |:---------------------------------|--------------------------------:|
-| **1-day Vulnerability Analysis** |       **Apr. 2019 – Nov. 2021** |
+| **0-day Vulnerabilities** |       **Apr. 2019 – Nov. 2021** |
 | *Student Intern*                 | *Sponsored by Korea University* |
 
 <!-- -    Wrote a 1-day vulnerability analysis report and implemented proof-of-concept code as a Metasploit module.
 -    Framework: Metasploit, Django
 -    Language: Ruby, Python -->
 
-|<img width=200/>|<img width=500/>|
 |:---------------|-------------------------------------------:|
-| **SW Maestro** |                  **Jun. 2015 – Dec. 2015** |
+| **AV Vulnerabilites** |                  **Jun. 2015 – Dec. 2015** |
 | *Developer*    | *Sponsored by Ministry of Science and IC* |
 
 <!-- **Matnam** \\
@@ -179,16 +161,14 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Framework: ONOS, Mininet
 -    Language: Java -->
 
-|<img width=200/>|<img width=500/>|
 |:-----------------------------|--------------------------:|
-| **Android Malware Anlaysis** | **Mar. 2014 – Dec. 2014** |
+| **Galaxy S7 Bootloader Analysis(DFC)** | **Mar. 2014 – Dec. 2014** |
 | *Student Intern*             |       *Sponsored by KISA* |
 
 <!-- -    Decompiled a real malicious Android app and analyzed its malicious behavior.
 -    Framework: JEB Decompiler
 -    Language: Java -->
 
-|<img width=200/>|<img width=500/>|
 |:--------------|---------------------------:|
 | **SGen club** |  **Jul. 2012 – Jun. 2014** |
 | *Developer*   | *Sponsored by Samsung SDS* |
