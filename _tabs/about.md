@@ -16,7 +16,7 @@ lastmod: 2024-01-19T02:27:27.790Z
 
 
 ## Summary
-I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea University**. From 2018 to 2020, I worked as a researcher at **ADD** (Agency for Defense Development), where I focused on **automating binary analysis** through Symbolic Execution. From 2020 to 2022, I led the technical operations of the Blue Team in the **Cyber Operation Center of the R.O.K. Airforce**, where I was primarily responsible for defending military assets (PCs, servers, etc.) from cyber threats. My focus during this time was on **automating malware analysis and threat hunting**. Since 2023, I have been working in the **R.O.K. Cyber Operations Command**, performing Red Team operations to **identify and exploit vulnerabilities**. I’ve been tasked with finding vulnerabilities in all military service systems, including applications, servers, and network devices, where I have discovered several **zero-day** vulnerabilities. Additionally, I have won awards in various cyber security competitions, and through my graduate studies, I am currently researching intriguing topics related to live services in operation today.
+I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea University**. From 2018 to 2020, I worked as a researcher at **ADD** (Agency for Defense Development), where I focused on **automating binary analysis** through Symbolic Execution. From 2020 to 2022, I led the technical operations of the Blue Team in the **Cyber Operation Center of the R.O.K. Airforce**, where I was primarily responsible for defending military assets (PCs, servers, etc.) from cyber threats. My focus during this time was on **automating malware analysis and threat hunting**. Since 2023, I have been working in the **R.O.K. Cyber Operations Command**, performing Red Team operations to **exploit vulnerabilities**. I’ve been tasked with finding vulnerabilities in all military service systems, including applications, servers, and network devices, where I have discovered several **0-day** vulnerabilities. Additionally, I have won awards in various cyber security competitions, and through my graduate studies, I am currently researching intriguing topics related to live services in operation today.
 
 
 
@@ -60,7 +60,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | *Security Researcher*              |            *Seoul, Korea* |
 
 -    **Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution** (*Mar. 2019 – Jun. 2020*)
-     -    *Goal*: Analyzing the function-based branches of malware communicating 
+     -    *Goal* : Analyzing the function-based branches of malware communicating 
           with C2 servers to track C2 traffic at the application level rather 
           than the monitoring networks.
      -    Applying symbolic execution starting from functions that receive data (e.g., recv, read) 
@@ -72,7 +72,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
      -    Language: Python, C/C++
 
 -    **Development of a Cyber A&D Training System** (*Jul. 2018 – Feb. 2019*)
-     -    *Goal*: Developed an A&D Training System enabling cyber attack, defense, and response training.
+     -    *Goal* : Developed an A&D Training System enabling cyber attack, defense, and response training.
      -    Developed strategies for training scenarios, scoring methods, and post-training debriefing approaches.
      -    Collected and analyzed various types of malware (e.g., C2 communication) to build a training dataset.
      -    Keywords: A&D Training, Training Dataset, Scenario, Evaluation
@@ -119,9 +119,9 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 |:--------------------------------------------|---------------------:|
 | **Forensic**                                |                      |
 |:--------------------------------------------|---------------------:|
-| *DFC 2022* : **participation** Prize        |                      |
-| *DFC 2021* : **3rd** Prize                  |                      |
-| *DFC 2019* : **2nd** Prize                  |                      |
+| *DFC 2022* : **participation** Prize        | *Team : InfoWarrior44* |
+| *DFC 2021* : **3rd** Prize                  | *Team : InfoWarrior404* |
+| *DFC 2019* : **2nd** Prize                  | *Team : DecafLatteJoa* |
 
 |:--------------------------------------------|---------------------:|
 | **Others**                                  |                      |
@@ -157,49 +157,21 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | *KVE-2024-1111*                  | *Reported to KISA*              |
 | *KVE-2024-1111*                  | *Reported to KISA*              |
 
-|:-----------------------------|--------------------------:|
-| **Galaxy S7 Bootloader Analysis(DFC)** | **Mar. 2014 – Dec. 2014** |
-| *Student Intern*             |       *Sponsored by KISA* |
 
-|:--------------|---------------------------:|
-| **BoB(Best of Best)** |  **Jul. 2012 – Jun. 2014** |
-| *Developer*   | *Sponsored by Samsung SDS* |
-
--    **AV vulnerabilites** (*Mar. 2019 – Jun. 2020*)
-     -    File, ioctl Fuzzing to V3, Virobot, Alyac
-     -    Dos Vuln on V3, RCE vuln on Virobot
+|:--------------------------------------------------|----------------------:|
+| **Presented an Analysis of Galaxy S7 Bootloader** | **Nov. 13, 2019**     |
+| *Digital Forensic Challenge workshop 2019*        | *Hosted by KIISC*     |
 
 
+|:--------------------------------------------------|--------------------------:|
+| **BoB(Best of Best) Top 30**                      | **Jul. 2017 – mar. 2018** |
+| *participant*                                     | *Sponsored by KITRI*      |
 
+-    **Find vulnerabilites in Anti-Virus Programs** (*Sep. 2017 – Dec. 2017*)
+     -    *Target* : V3, Virobot, Alyac
+     -    Developed two fuzzers for performing **file fuzzing** and **IOCTL fuzzing**.
+     -    Exploited RCE and DoS vulnerabilities (causing *BSOD*) in Virobot and V3.
 
-<!-- **ENTOP: Entertainment Top 10** \\
-*Jan. 2014 – Jun. 2014*
-
--    Website that recommends the BEST 10 based on user interests.
--    Framework: Django, jQuery, MySQL
--    Language: Python, Javascript
-
-**MIV** \\
-*Jul. 2013 – Dec. 2013*
-
--    Application that automatically recognizes the video’s music and
-    provides music information.
--    Framework: Android SDK, MySQL
--    Language: Java
-
-**LOVIE: MOVIE+LOVE** \\
-*Jan. 2013 – Jun. 2013*
-
--    Movie recommendation and review application for couples.
--    Framework: Android SDK, MySQL
--    Language: Java
-
-**MonsterAlarm** \\
-*Jul. 2012 – Dec. 2012*
-
--    Alarm application with game mechanics and nurturing concepts.
--    Framework: Android SDK, sqlite
--    Language: Java -->
 
 ## Skills
 
