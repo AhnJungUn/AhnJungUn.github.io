@@ -30,7 +30,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Worked as a **Red Team** during R.O.K. military cyber operation exercises.
 -    Implemented cyber **attack tactics** by chaining multiple exploited 
      vulnerabilities and assessed the cyber defense capabilities of 
-     the R.O.K Military. 
+     the R.O.K Military.
 -    Keywords: Red Team, System Hacking, Web Hacking, Reverse Engineering,
      Binary Exploitation, Windows Application, Cyber Attack Tactics, 
      Attack Concealment, APT Attack
@@ -61,8 +61,8 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | **Agency For Defense Development** | **Jul. 2018 – Jun. 2020** |
 | *Security Researcher*              |            *Seoul, Korea* |
 
-**Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution**\\
-*Mar. 2019 – Jun. 2020*
+-    **Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution**\\
+-    *Mar. 2019 – Jun. 2020*
 
 -    Goal: Analyzing the function-based branches of malware communicating 
      with C2 servers to track C2 traffic at the application level rather 
@@ -75,8 +75,9 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Frameworks/Tools: IDA, Triton, Windbg, MITRE ATT&CK
 -    Language: Python, C/C++
 
-**Development of a Cyber A&D Training System** \\
-*Jul. 2018 – Feb. 2019*
+
+-    **Development of a Cyber A&D Training System** \\
+-    *Jul. 2018 – Feb. 2019*
 
 -    Goal: Developed an A&D Training System enabling cyber attack, defense, and response training.
 -    Developed strategies for training scenarios, scoring methods, and post-training debriefing approaches.
@@ -92,6 +93,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 |:----------------------------------|--------------------------:|
 | *Ph.D. in Information Security*   |            *Seoul, Korea* |
 | Advisor: Prof. Sangjin Lee        | [Website](https://dfrc.korea.ac.kr/)|
+
 
 |:----------------------------------|--------------------------:|
 | **Korea University**              | **Mar. 2014 – Feb. 2018** |
@@ -109,57 +111,39 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Awards & Contests
 
+| **Hacking**                                 |                      |
+|:--------------------------------------------|---------------------:|
+| *Defcon CTF 2024* : **Final**               | *Team : Cold Fusion* |
+| *CCE 2023* : **3rd** Prize                  | *public sector*      |
+| *CCE 2022* : **4th** Place                  | *public sector*      |
+| *CCE 2021* : **5th** Place                  | *public sector*      |
+| *WhiteHat Contest CTF 2022* : **2nd** Prize | *military sector*    |
+| *WhiteHat Contest CTF 2021* : **5th** Place | *military sector*    |
+| *국방사이버안보경진대회 2022* : **2nd** Prize |                      |
 
-| **Hacking**                           |                          |
-|:--------------------------------------|-------------------------:|
-| *Defcon CTF 2024*                     | **Final** *(Team : Cold Fusion)* |
-| *CCE 2023*                            | **3rd** Prize (public sector)|
-| *CCE 2022*                            | **4th** Place (public sector)|
-| *CCE 2021*                            | **5th** Place (public sector)|
-| *WhiteHat Contest CTF 2022*           | **2nd** Prize (military sector)|
-| *WhiteHat Contest CTF 2021*           | **5th** Place (military sector)|
-| *국방사이버안보경진대회 2022*           | **2nd** Prize|
-|:--------------------------------------|-------------------------:|
-| **Forensic**                          |                          |
-|:--------------------------------------|-------------------------:|
-| *DFC 2022*                            | **participation** Prize|
-| *DFC 2021*                            | **3rd** Prize|
-| *DFC 2019*                            | **2nd** Prize|
-|:--------------------------------------|-------------------------:|
-| **Others**                            |                          |
-|:--------------------------------------|-------------------------:|
-| *Cybernet 2024*                       | **1st** Prize|
-| *AIXCC 2024*                          | **Semi-Finals** *(Team : KORIA)*|
-| *Splunk BOSS 2022*                    | **7th** Place|
+| **Forensic**                                |                      |
+|:--------------------------------------------|---------------------:|
+| *DFC 2022* : **participation** Prize        |                      |
+| *DFC 2021* : **3rd** Prize                  |                      |
+| *DFC 2019* : **2nd** Prize                  |                      |
+
+| **Others**                                  |                      |
+|:--------------------------------------------|---------------------:|
+| *Cybernet 2024* : **1st** Prize             |                      |
+| *AIXCC 2024* : **Semi-Finals**              | *Team : KORIA*       |
+| *Splunk BOSS 2022* : **7th** Place          |                      |
 
 
-<!--
--   **Hacking**
--   Defcon CTF 2024 : **Final** (Team : Cold Fusion)
--   CCE 2023 : **3rd** Prize (public sector) 
--   CCE 2022 : **4th** Place (public sector)
--   CCE 2021 : **5th** Place (public sector)
--   WhiteHat Contest CTF 2022 (military sector) : **2nd** Prize
--   WhiteHat Contest CTF 2021 (military sector) : **5th** Place
--   국방사이버안보경진대회 2022 : **2nd** Prize \\
--   **Forensic**
--   DFC 2022 : **participation** prize
--   DFC 2021 : **3rd** Prize
--   DFC 2019 : **2nd** Prize \\
--   **Others**
--   Cybernet 2024 **1st** Prize
--   AIXCC 2024 : Semi-Finals (Team : KORIA)
--   Splunk Boss 2022 : **7th** Place
--->
 
 ## Research
 
--   **The analysis of bitcoin wallet artifacts** \\
-    **Jungun Ahn**, Sangjin Lee \\
-    디지털포렌식연구 16.2 (2022): 74-85.
+-   **Paper**
+-   *The analysis of bitcoin wallet artifacts* / **Jungun Ahn**, Sangjin Lee / 디지털포렌식연구 16.2 (2022): 74-85.\\
 
 -   **Poster**
- 
+-   *안티바이러스 취약점 분석 방법 및 주요 보안 문제* \\
+-   *전형린, 김도연, 김도혁, **안정언**, 오우진, 이상진, 이승진, 한승훈 (KITRI BoB)* / 2017 한국정보보호학회 동계학술대회(CICS-W'17).
+
 
 ## Other Experiences
 
