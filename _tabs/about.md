@@ -135,7 +135,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 ## Research
 
 ### **Paper**
--   **The analysis of bitcoin wallet artifacts** / **Jungun Ahn**, Sangjin Lee / 디지털포렌식연구 16.2 (2022): 74-85.
+-   **비트코인 지갑의 아티팩트 분석 연구** / **안정언**, 이상진 / 디지털포렌식연구 16.2 (2022): 74-85.
 
 ### **Poster**
 -   **안티바이러스 취약점 분석 방법 및 주요 보안 문제** / 전형린, 김도연, 김도혁, **안정언**, 오우진, 이상진, 이승진, 한승훈 (KITRI BoB) / 
@@ -144,18 +144,18 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Other Experiences
 
-|:---------------------------------|--------------------------------:|
-| **Bug Huntings**                 |                                 |
-|:---------------------------------|--------------------------------:|
-| *KVE-2024-1111*                  | *Reported to KISA*              |
-| *KVE-2024-1111*                  | *Reported to KISA*              |
-| *KVE-2024-1111*                  | *Reported to KISA*              |
-| *KVE-2024-1111*                  | *Reported to KISA*              |
-| *KVE-2024-1111*                  | *Reported to KISA*              |
-| *KVE-2024-1111*                  | *Reported to KISA*              |
-| *KVE-2024-1111*                  | *Reported to KISA*              |
-| *KVE-2024-1111*                  | *Reported to KISA*              |
-| *KVE-2024-1111*                  | *Reported to KISA*              |
+|:----------------------------------------|--------------------------------:|
+| **Bug Huntings**                        |                                 |
+|:----------------------------------------|--------------------------------:|
+| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-1111*                         | *Reported to KISA*              |
 
 
 |:--------------------------------------------------|----------------------:|
@@ -163,9 +163,9 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | *Digital Forensic Challenge workshop 2019*        | *Hosted by KIISC*     |
 
 
-|:--------------------------------------------------|------------------------------:|
-| **BoB(Best of the Best) Top 30**                  | **Jul. 2017 – mar. 2018**     |
-|                                                   | *Sponsored by KITRI*          |
+|:----------------------------------------------|--------------------------:|
+| **BoB(Best of the Best) Top 30**              | **Jul. 2017 – Mar. 2018** |
+| *participant*                                 | *Sponsored by KITRI*      |
 
 -    **Find vulnerabilites in Anti-Virus Programs** (*Sep. 2017 – Dec. 2017*)
      -    *Target* : V3, Virobot, Alyac
