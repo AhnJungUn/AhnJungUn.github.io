@@ -60,7 +60,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | *Security Researcher*              |            *Seoul, Korea* |
 
 -    **Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution** (*Mar. 2019 – Jun. 2020*)
-     -    *Goal* : Analyzing the function-based branches of malware communicating 
+     -    **Goal** : Analyzing the function-based branches of malware communicating 
           with C2 servers to track C2 traffic at the application level rather 
           than the monitoring networks.
      -    Applying symbolic execution starting from functions that receive data (e.g., recv, read) 
@@ -72,7 +72,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
      -    Language: Python, C/C++
 
 -    **Development of a Cyber A&D Training System** (*Jul. 2018 – Feb. 2019*)
-     -    *Goal* : Developed an A&D Training System enabling cyber attack, defense, and response training.
+     -    **Goal** : Developed an A&D Training System enabling cyber attack, defense, and response training.
      -    Developed strategies for training scenarios, scoring methods, and post-training debriefing approaches.
      -    Collected and analyzed various types of malware (e.g., C2 communication) to build a training dataset.
      -    Keywords: A&D Training, Training Dataset, Scenario, Evaluation
