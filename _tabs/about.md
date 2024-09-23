@@ -37,8 +37,8 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Frameworks/Tools: IDA, WinDBG, Powershell, Burp Suite, Metasploit,
      CobaltStrike, wireshark, Python, C/C++
 
-
-
+\\
+\\
 |:------------------------------------|--------------------------:|
 | **R.O.K.A. Cyber Operation Center** | **Jul. 2020 – Dec. 2022** |
 | *Security Engineer*                 |       *Pyeongtaek, Korea* |
@@ -54,9 +54,8 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Keywords: Blue Team, Malware Analysis, Windows Forensic, Reverse Engineering, Incident Response, Threat Hunting
 -    Frameworks/Tools: IDA, WinDBG, IDAPython, FTK Imager, AXIOM, 
      Volatility, REGA, NTFS Log Tracker, wireshark, Python
-
-
-
+\\
+\\
 |:-----------------------------------|--------------------------:|
 | **Agency For Defense Development** | **Jul. 2018 – Jun. 2020** |
 | *Security Researcher*              |            *Seoul, Korea* |
@@ -134,10 +133,10 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 ## Research
 
 ### **Paper**
--   *The analysis of bitcoin wallet artifacts* / **Jungun Ahn**, Sangjin Lee / 디지털포렌식연구 16.2 (2022): 74-85.
+-   **The analysis of bitcoin wallet artifacts** / **Jungun Ahn**, Sangjin Lee / 디지털포렌식연구 16.2 (2022): 74-85.
 
 ### **Poster**
--   *안티바이러스 취약점 분석 방법 및 주요 보안 문제* / 전형린, 김도연, 김도혁, **안정언**, 오우진, 이상진, 이승진, 한승훈 (KITRI BoB) / 
+-   **안티바이러스 취약점 분석 방법 및 주요 보안 문제** / 전형린, 김도연, 김도혁, **안정언**, 오우진, 이상진, 이승진, 한승훈 (KITRI BoB) / 
      2017 한국정보보호학회 동계학술대회.
 
 
