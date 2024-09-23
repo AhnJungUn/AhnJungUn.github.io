@@ -1,5 +1,5 @@
 ---
-title: About JungUn AHN (안정언)
+title: About AHNJUNGUN (안정언)
 toc: true
 icon: fas fa-info-circle
 order: 1
@@ -19,16 +19,15 @@ lastmod: 2024-01-19T02:27:27.790Z
 I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea University**. From 2018 to 2020, I worked as a researcher at **ADD** (Agency for Defense Development), where I focused on **automating binary analysis** through Symbolic Execution. From 2020 to 2022, I led the technical operations of the Blue Team in the **Cyber Operation Center of the R.O.K. Airforce**, where I was primarily responsible for defending military assets (PCs, servers, etc.) from cyber threats. My focus during this time was on **automating malware analysis and threat hunting**. Since 2023, I have been working in the **R.O.K. Cyber Operations Command**, performing Red Team operations to **identify and exploit vulnerabilities**. I’ve been tasked with finding vulnerabilities in all military service systems, including applications, servers, and network devices, where I have discovered several **zero-day** vulnerabilities. Additionally, I have won awards in various cyber security competitions, and through my graduate studies, I am currently researching intriguing topics related to live services in operation today.
 
 
+
 ## Work Experience
 
 |:-----------------------------------|------------------------:|
 | **R.O.K. Cyber Operation Command** | **Dec. 2022 – Present** |
 | *Security Engineer*                |          *Seoul, Korea* |
 
--    Performed **Vulnerability Assessments** for R.O.K. military IT
-     infrastructure.
--    Worked as a **Red Team** during R.O.K. military cyber operation
-     exercises.
+-    Performed **Vulnerability Assessments** for R.O.K. military IT infrastructure.
+-    Worked as a **Red Team** during R.O.K. military cyber operation exercises.
 -    Implemented cyber **attack tactics** by chaining multiple exploited 
      vulnerabilities and assessed the cyber defense capabilities of 
      the R.O.K Military. 
@@ -39,24 +38,23 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
      CobaltStrike, wireshark, Python, C/C++
 
 
+
 |:------------------------------------|--------------------------:|
 | **R.O.K.A. Cyber Operation Center** | **Jul. 2020 – Dec. 2022** |
 | *Security Engineer*                 |       *Pyeongtaek, Korea* |
 
--    Performed **Incident Response & Vulnerability Response** for 
-     R.O.K.A military IT infrastructure.
--    Worked as a **Blue Team** during R.O.K. military cyber operation
-     exercises.
+-    Performed **Incident Response & Vulnerability Response** for R.O.K.A military IT infrastructure.
+-    Worked as a **Blue Team** during R.O.K. military cyber operation exercises.
 -    Implemented **malware analyses** and conducted **forensic artifact analysis**
      on endpoints and servers, while fulfilling the R.O.K.A internal 
      Red Team role and proactively patching multiple vulnerabilities.
 -    Created an **incident response manual** and distributed it to 
      all units of the R.O.K.A, and developed an **malware analysis tool**
      integrating IDA and Debugger to achieve **automation** of tasks.
--    Keywords: Blue Team, Malware Analysis, Windows Forensic, Reverse Engineering,
-     Incident Response, Threat Hunting
+-    Keywords: Blue Team, Malware Analysis, Windows Forensic, Reverse Engineering, Incident Response, Threat Hunting
 -    Frameworks/Tools: IDA, WinDBG, IDAPython, FTK Imager, AXIOM, 
      Volatility, REGA, NTFS Log Tracker, wireshark, Python
+
 
 
 |:-----------------------------------|--------------------------:|
@@ -72,66 +70,96 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Applying symbolic execution starting from functions that receive data (e.g., recv, read) 
      to generate data needed to reach the final function based on its specific functionality.
 -    Utilizing C2 server traffic data for the Cyber A&D Training System.
--    Keywords: Malware Traffic, Symbolic Execution, Malware Analysis, MITRE ATT&CK,
-     C2 Dataset
+-    Keywords: Malware Traffic, Symbolic Execution, Concolic Execution, Taint Analysis, Malware Analysis, 
+     MITRE ATT&CK, C2 Dataset
 -    Frameworks/Tools: IDA, Triton, Windbg, MITRE ATT&CK
 -    Language: Python, C/C++
 
 **Development of a Cyber A&D Training System** \\
 *Jul. 2018 – Feb. 2019*
 
--    Goal: Develop techniques to analyze and evaluate crashes
-    generated from software fuzzing to identify root causes and
-    automatically assess whether they could lead to vulnerabilities.
--    Developed Linux-based taint analysis tool for Windows x64.
--    Introduced crash triage technique using additional directed
-    fuzzing and taint analysis.
--    Keywords: Fuzzing, Crash triage, Crash prioritization, Root
-    cause analysis, Dynamic binary instrumentation, Taint analysis
--    Frameworks/Tools: WinAFL, libdft, WinDBG, Pintool, Dynamorio,
-    Valgrind
--    Language: Python, C/C++, Javascript
+-    Goal: Developed an A&D Training System enabling cyber attack, defense, and response training.
+-    Developed strategies for training scenarios, scoring methods, and post-training debriefing approaches.
+-    Collected and analyzed various types of malware (e.g., C2 communication) to build a training dataset.
+-    Keywords: A&D Training, Training Dataset, Scenario, Evaluation
+
 
 
 ## Education
 
 |:----------------------------------|--------------------------:|
-| **Korea University**            | **Sep. 2019 – Present** |
+| **Korea University**              | **Sep. 2019 – Present**   |
 |:----------------------------------|--------------------------:|
-| *Ph.D. in Information Security* |          *Seoul, Korea* |
-| Advisor: Prof. Sangjin Lee       | [Website](https://signal.korea.ac.kr)|
+| *Ph.D. in Information Security*   |            *Seoul, Korea* |
+| Advisor: Prof. Sangjin Lee        | [Website](https://dfrc.korea.ac.kr/)|
 
 |:----------------------------------|--------------------------:|
-| **Korea University**    | **Mar. 2014 – Feb. 2018** |
+| **Korea University**              | **Mar. 2014 – Feb. 2018** |
 |:----------------------------------|--------------------------:|
-| *B.S. in Cyber Defense* |            *Seoul, Korea* |
+| *B.S. in Cyber Defense*           |            *Seoul, Korea* |
+|:----------------------------------|--------------------------:|
+| **Graduated with highest honors** |---------------------------|
 
 
 | **HANKUK ACADEMY OF FOREIGN STUDIES** | **Mar. 2011 – Feb 2014** |
 |:--------------------------------------|-------------------------:|
-|                                       |          *YongIn, Korea* |
-
-## Publications
-
--    **SCVMON: Data-oriented attack recovery for RVs based on
-    safety-critical variable monitoring.** \\
-    Sangbin Park, **Youngjoon Kim**, and Donghoon Lee \\
-    International Symposium on Research in Attacks, Intrusions, and
-    Defenses (RAID), 2023
+| *High School*                         |          *YongIn, Korea* |
 
 
-## Awards
 
--    **DEVICE AND METHOD FOR DATA-ORIENTED ATTACK DETECTION AND RECOVERY
-    FOR ROBOTIC VEHICLES BASED ON SAFETY-CRITICAL VARIABLES
-    MONITORING.** \\
-    Sangbin Park, **Youngjoon Kim**, and Donghun Lee \\
-    Korean Patent 10-2023-0157140(application number), In review
+## Awards & Contests
 
--    **SOFTWARE TAINT ANALYSIS METHOD AND SOFTWARE TAINT ANALYSIS DEVICE
-    USING THE SAME.** \\
-    Kyeongsik Lee, **Youngjoon Kim**, Younggi Park, and Hojun Lee \\
-    Korean Patent 10-2344497-0000, 2021
+
+| **Hacking**                           |                          |
+|:--------------------------------------|-------------------------:|
+| *Defcon CTF 2024*                     | **Final** *(Team : Cold Fusion)* |
+| *CCE 2023*                            | **3rd** Prize (public sector)|
+| *CCE 2022*                            | **4th** Place (public sector)|
+| *CCE 2021*                            | **5th** Place (public sector)|
+| *WhiteHat Contest CTF 2022*           | **2nd** Prize (military sector)|
+| *WhiteHat Contest CTF 2021*           | **5th** Place (military sector)|
+| *국방사이버안보경진대회 2022*           | **2nd** Prize|
+|:--------------------------------------|-------------------------:|
+| **Forensic**                          |                          |
+|:--------------------------------------|-------------------------:|
+| *DFC 2022*                            | **participation** Prize|
+| *DFC 2021*                            | **3rd** Prize|
+| *DFC 2019*                            | **2nd** Prize|
+|:--------------------------------------|-------------------------:|
+| **Others**                            |                          |
+|:--------------------------------------|-------------------------:|
+| *Cybernet 2024*                       | **1st** Prize|
+| *AIXCC 2024*                          | **Semi-Finals** *(Team : KORIA)*|
+| *Splunk BOSS 2022*                    | **7th** Place|
+
+
+<!--
+-   **Hacking**
+-   Defcon CTF 2024 : **Final** (Team : Cold Fusion)
+-   CCE 2023 : **3rd** Prize (public sector) 
+-   CCE 2022 : **4th** Place (public sector)
+-   CCE 2021 : **5th** Place (public sector)
+-   WhiteHat Contest CTF 2022 (military sector) : **2nd** Prize
+-   WhiteHat Contest CTF 2021 (military sector) : **5th** Place
+-   국방사이버안보경진대회 2022 : **2nd** Prize \\
+-   **Forensic**
+-   DFC 2022 : **participation** prize
+-   DFC 2021 : **3rd** Prize
+-   DFC 2019 : **2nd** Prize \\
+-   **Others**
+-   Cybernet 2024 **1st** Prize
+-   AIXCC 2024 : Semi-Finals (Team : KORIA)
+-   Splunk Boss 2022 : **7th** Place
+-->
+
+## Research
+
+-   **The analysis of bitcoin wallet artifacts** \\
+    **Jungun Ahn**, Sangjin Lee \\
+    디지털포렌식연구 16.2 (2022): 74-85.
+
+-   **Poster**
+ 
 
 ## Other Experiences
 
@@ -139,27 +167,11 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | **0-day Vulnerabilities** |       **Apr. 2019 – Nov. 2021** |
 | *Student Intern*                 | *Sponsored by Korea University* |
 
-<!-- -    Wrote a 1-day vulnerability analysis report and implemented proof-of-concept code as a Metasploit module.
--    Framework: Metasploit, Django
--    Language: Ruby, Python -->
 
 |:---------------|-------------------------------------------:|
 | **AV Vulnerabilites** |                  **Jun. 2015 – Dec. 2015** |
 | *Developer*    | *Sponsored by Ministry of Science and IC* |
 
-<!-- **Matnam** \\
-*Sep. 2015 – Dec. 2015*
-
--    Advertisement application for local restaurants through Instagram.
--    Framework: Android SDK, Google Cloud, Google App Engine
--    Language: Java
-
-**Random Routing Mutation** \\
-*Jun. 2015 – Aug. 2015*
-
--    Network security systems using SDN technology.
--    Framework: ONOS, Mininet
--    Language: Java -->
 
 |:-----------------------------|--------------------------:|
 | **Galaxy S7 Bootloader Analysis(DFC)** | **Mar. 2014 – Dec. 2014** |
@@ -170,7 +182,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Language: Java -->
 
 |:--------------|---------------------------:|
-| **SGen club** |  **Jul. 2012 – Jun. 2014** |
+| **BoB(Best of Best)** |  **Jul. 2012 – Jun. 2014** |
 | *Developer*   | *Sponsored by Samsung SDS* |
 
 <!-- **ENTOP: Entertainment Top 10** \\
