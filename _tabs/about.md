@@ -28,16 +28,16 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 -    Performed **Vulnerability Assessments** for R.O.K. military IT infrastructure.
 -    Worked as a **Red Team** during R.O.K. military cyber operation exercises.
--    Implemented cyber **attack tactics** by chaining multiple exploited 
+-    Implemented **cyber attack tactics** by chaining multiple exploited 
      vulnerabilities and assessed the cyber defense capabilities of 
      the R.O.K Military.
 -    Keywords: Red Team, System Hacking, Web Hacking, Reverse Engineering,
      Binary Exploitation, Windows Application, Cyber Attack Tactics, 
      Attack Concealment, APT Attack
 -    Frameworks/Tools: IDA, WinDBG, Powershell, Burp Suite, Metasploit,
-     CobaltStrike, wireshark, Python, C/C++
+     CobaltStrike, wireshark, Python, C/C++\\
 
-<br>
+
 |:------------------------------------|--------------------------:|
 | **R.O.K.A. Cyber Operation Center** | **Jul. 2020 – Dec. 2022** |
 | *Security Engineer*                 |       *Pyeongtaek, Korea* |
@@ -52,9 +52,9 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
      integrating IDA and Debugger to achieve **automation** of tasks.
 -    Keywords: Blue Team, Malware Analysis, Windows Forensic, Reverse Engineering, Incident Response, Threat Hunting
 -    Frameworks/Tools: IDA, WinDBG, IDAPython, FTK Imager, AXIOM, 
-     Volatility, REGA, NTFS Log Tracker, wireshark, Python
+     Volatility, REGA, NTFS Log Tracker, wireshark, Python\\
 
-<br>
+
 |:-----------------------------------|--------------------------:|
 | **Agency For Defense Development** | **Jul. 2018 – Jun. 2020** |
 | *Security Researcher*              |            *Seoul, Korea* |
@@ -96,6 +96,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | **Graduated with highest honors** |                                |
 
 
+|:--------------------------------------|---------------------------:|
 | **HANKUK ACADEMY OF FOREIGN STUDIES** | **Mar. 2011 – Feb 2014**   |
 |:--------------------------------------|---------------------------:|
 | *High School*                         |            *YongIn, Korea* |
@@ -104,6 +105,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Awards & Contests
 
+|:--------------------------------------------|---------------------:|
 | **Hacking**                                 |                      |
 |:--------------------------------------------|---------------------:|
 | *Defcon CTF 2024* : **Final**               | *Team : Cold Fusion* |
@@ -114,12 +116,14 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | *WhiteHat Contest CTF 2021* : **5th** Place | *military sector*    |
 | *국방사이버안보경진대회 2022* : **2nd** Prize |                      |
 
+|:--------------------------------------------|---------------------:|
 | **Forensic**                                |                      |
 |:--------------------------------------------|---------------------:|
 | *DFC 2022* : **participation** Prize        |                      |
 | *DFC 2021* : **3rd** Prize                  |                      |
 | *DFC 2019* : **2nd** Prize                  |                      |
 
+|:--------------------------------------------|---------------------:|
 | **Others**                                  |                      |
 |:--------------------------------------------|---------------------:|
 | *Cybernet 2024* : **1st** Prize             |                      |
@@ -140,6 +144,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Other Experiences
 
+|:---------------------------------|--------------------------------:|
 | **Bug Huntings**                 |                                 |
 |:---------------------------------|--------------------------------:|
 | *KVE-2024-1111*                  | *Reported to KISA*              |
@@ -152,12 +157,10 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | *KVE-2024-1111*                  | *Reported to KISA*              |
 | *KVE-2024-1111*                  | *Reported to KISA*              |
 
-<br>
 |:-----------------------------|--------------------------:|
 | **Galaxy S7 Bootloader Analysis(DFC)** | **Mar. 2014 – Dec. 2014** |
 | *Student Intern*             |       *Sponsored by KISA* |
 
-<br>
 |:--------------|---------------------------:|
 | **BoB(Best of Best)** |  **Jul. 2012 – Jun. 2014** |
 | *Developer*   | *Sponsored by Samsung SDS* |
