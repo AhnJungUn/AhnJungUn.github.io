@@ -37,8 +37,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Frameworks/Tools: IDA, WinDBG, Powershell, Burp Suite, Metasploit,
      CobaltStrike, wireshark, Python, C/C++
 
-\\
-\\
+<br>
 |:------------------------------------|--------------------------:|
 | **R.O.K.A. Cyber Operation Center** | **Jul. 2020 – Dec. 2022** |
 | *Security Engineer*                 |       *Pyeongtaek, Korea* |
@@ -54,8 +53,8 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Keywords: Blue Team, Malware Analysis, Windows Forensic, Reverse Engineering, Incident Response, Threat Hunting
 -    Frameworks/Tools: IDA, WinDBG, IDAPython, FTK Imager, AXIOM, 
      Volatility, REGA, NTFS Log Tracker, wireshark, Python
-\\
-\\
+
+<br>
 |:-----------------------------------|--------------------------:|
 | **Agency For Defense Development** | **Jul. 2018 – Jun. 2020** |
 | *Security Researcher*              |            *Seoul, Korea* |
@@ -72,7 +71,6 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
      -    Frameworks/Tools: IDA, Triton, Windbg, MITRE ATT&CK
      -    Language: Python, C/C++
 
-
 -    **Development of a Cyber A&D Training System** (*Jul. 2018 – Feb. 2019*)
      -    *Goal*: Developed an A&D Training System enabling cyber attack, defense, and response training.
      -    Developed strategies for training scenarios, scoring methods, and post-training debriefing approaches.
@@ -83,24 +81,24 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Education
 
-|:----------------------------------|--------------------------:|
-| **Korea University**              | **Sep. 2019 – Present**   |
-|:----------------------------------|--------------------------:|
-| *Ph.D. in Information Security*   |            *Seoul, Korea* |
+|:----------------------------------|-------------------------------:|
+| **Korea University**              | **Sep. 2019 – Present**        |
+|:----------------------------------|-------------------------------:|
+| *Ph.D. in Information Security*   |                 *Seoul, Korea* |
 | Advisor: Prof. Sangjin Lee        | [Website](https://dfrc.korea.ac.kr/)|
 
 
-|:----------------------------------|--------------------------:|
-| **Korea University**              | **Mar. 2014 – Feb. 2018** |
-|:----------------------------------|--------------------------:|
-| *B.S. in Cyber Defense*           |            *Seoul, Korea* |
-|:----------------------------------|--------------------------:|
-| **Graduated with highest honors** |---------------------------|
+|:----------------------------------|-------------------------------:|
+| **Korea University**              | **Mar. 2014 – Feb. 2018**      |
+|:----------------------------------|-------------------------------:|
+| *B.S. in Cyber Defense*           |                 *Seoul, Korea* |
+|:----------------------------------|-------------------------------:|
+| **Graduated with highest honors** |                                |
 
 
-| **HANKUK ACADEMY OF FOREIGN STUDIES** | **Mar. 2011 – Feb 2014** |
-|:--------------------------------------|-------------------------:|
-| *High School*                         |          *YongIn, Korea* |
+| **HANKUK ACADEMY OF FOREIGN STUDIES** | **Mar. 2011 – Feb 2014**   |
+|:--------------------------------------|---------------------------:|
+| *High School*                         |            *YongIn, Korea* |
 
 
 
@@ -142,27 +140,34 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Other Experiences
 
+| **Bug Huntings**                 |                                 |
 |:---------------------------------|--------------------------------:|
-| **0-day Vulnerabilities** |       **Apr. 2019 – Nov. 2021** |
-| *Student Intern*                 | *Sponsored by Korea University* |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
+| *KVE-2024-1111*                  | *Reported to KISA*              |
 
-
-|:---------------|-------------------------------------------:|
-| **AV Vulnerabilites** |                  **Jun. 2015 – Dec. 2015** |
-| *Developer*    | *Sponsored by Ministry of Science and IC* |
-
-
+<br>
 |:-----------------------------|--------------------------:|
 | **Galaxy S7 Bootloader Analysis(DFC)** | **Mar. 2014 – Dec. 2014** |
 | *Student Intern*             |       *Sponsored by KISA* |
 
-<!-- -    Decompiled a real malicious Android app and analyzed its malicious behavior.
--    Framework: JEB Decompiler
--    Language: Java -->
-
+<br>
 |:--------------|---------------------------:|
 | **BoB(Best of Best)** |  **Jul. 2012 – Jun. 2014** |
 | *Developer*   | *Sponsored by Samsung SDS* |
+
+-    **AV vulnerabilites** (*Mar. 2019 – Jun. 2020*)
+     -    File, ioctl Fuzzing to V3, Virobot, Alyac
+     -    Dos Vuln on V3, RCE vuln on Virobot
+
+
+
 
 <!-- **ENTOP: Entertainment Top 10** \\
 *Jan. 2014 – Jun. 2014*
