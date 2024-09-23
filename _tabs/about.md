@@ -61,7 +61,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | **Agency For Defense Development** | **Jul. 2018 – Jun. 2020** |
 | *Security Researcher*              |            *Seoul, Korea* |
 
--    **Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution**\\
+###  **Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution**
 -    *Mar. 2019 – Jun. 2020*
 
 -    Goal: Analyzing the function-based branches of malware communicating 
@@ -76,7 +76,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -    Language: Python, C/C++
 
 
--    **Development of a Cyber A&D Training System** \\
+###  **Development of a Cyber A&D Training System** 
 -    *Jul. 2018 – Feb. 2019*
 
 -    Goal: Developed an A&D Training System enabling cyber attack, defense, and response training.
@@ -137,12 +137,12 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 ## Research
 
--   **Paper**
--   *The analysis of bitcoin wallet artifacts* / **Jungun Ahn**, Sangjin Lee / 디지털포렌식연구 16.2 (2022): 74-85.\\
+### **Paper**
+-   *The analysis of bitcoin wallet artifacts* / **Jungun Ahn**, Sangjin Lee / 디지털포렌식연구 16.2 (2022): 74-85.
 
--   **Poster**
--   *안티바이러스 취약점 분석 방법 및 주요 보안 문제* \\
--   *전형린, 김도연, 김도혁, **안정언**, 오우진, 이상진, 이승진, 한승훈 (KITRI BoB)* / 2017 한국정보보호학회 동계학술대회(CICS-W'17).
+### **Poster**
+-   *안티바이러스 취약점 분석 방법 및 주요 보안 문제*
+-   *전형린, 김도연, 김도혁, **안정언**, 오우진, 이상진, 이승진, 한승훈 (KITRI BoB)* / 2017 한국정보보호학회 동계학술대회.
 
 
 ## Other Experiences
