@@ -35,7 +35,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
      Binary Exploitation, Windows Application, Cyber Attack Tactics, 
      Attack Concealment, APT Attack
 -    Frameworks/Tools: IDA, WinDBG, Powershell, Burp Suite, Metasploit,
-     CobaltStrike, wireshark, Python, C/C++\\
+     CobaltStrike, wireshark, Python, C/C++
 
 
 |:------------------------------------|--------------------------:|
@@ -52,7 +52,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
      integrating IDA and Debugger to achieve **automation** of tasks.
 -    Keywords: Blue Team, Malware Analysis, Windows Forensic, Reverse Engineering, Incident Response, Threat Hunting
 -    Frameworks/Tools: IDA, WinDBG, IDAPython, FTK Imager, AXIOM, 
-     Volatility, REGA, NTFS Log Tracker, wireshark, Python\\
+     Volatility, REGA, NTFS Log Tracker, wireshark, Python
 
 
 |:-----------------------------------|--------------------------:|
@@ -163,18 +163,11 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | *Digital Forensic Challenge workshop 2019*        | *Hosted by KIISC*     |
 
 
-|:--------------------------------------------------|--------------------------:|
-| **BoB(Best of Best) Top 30**                      | **Jul. 2017 – mar. 2018** |
-| *participant*                                     | *Sponsored by KITRI*      |
+|:--------------------------------------------------|------------------------------:|
+| **BoB(Best of the Best) Top 30**                  | **Jul. 2017 – mar. 2018**     |
+|                                                   | *Sponsored by KITRI*          |
 
 -    **Find vulnerabilites in Anti-Virus Programs** (*Sep. 2017 – Dec. 2017*)
      -    *Target* : V3, Virobot, Alyac
      -    Developed two fuzzers for performing **file fuzzing** and **IOCTL fuzzing**.
      -    Exploited RCE and DoS vulnerabilities (causing *BSOD*) in Virobot and V3.
-
-
-## Skills
-
-- **Programming Languages**: Proficient - C/C++, Python, Java, Occasional - Java, JavaScript, Node.js, R, Solidity, Rust
-- **Cloud Platforms**: *AWS*, Google Cloud
-- **Frameworks/Tools**: AFL, Pintool, Burp suite, IDA, WinDBG, PyTorch, TensorFlow, React, Git, MongoDB
