@@ -61,28 +61,24 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | **Agency For Defense Development** | **Jul. 2018 – Jun. 2020** |
 | *Security Researcher*              |            *Seoul, Korea* |
 
-###  **Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution**
--    *Mar. 2019 – Jun. 2020*
-
--    Goal: Analyzing the function-based branches of malware communicating 
-     with C2 servers to track C2 traffic at the application level rather 
-     than the monitoring networks.
--    Applying symbolic execution starting from functions that receive data (e.g., recv, read) 
-     to generate data needed to reach the final function based on its specific functionality.
--    Utilizing C2 server traffic data for the Cyber A&D Training System.
--    Keywords: Malware Traffic, Symbolic Execution, Concolic Execution, Taint Analysis, Malware Analysis, 
-     MITRE ATT&CK, C2 Dataset
--    Frameworks/Tools: IDA, Triton, Windbg, MITRE ATT&CK
--    Language: Python, C/C++
+-    **Research on Automated Analysis of Malware C2 Traffic through Symbolic Execution** (*Mar. 2019 – Jun. 2020*)
+     -    *Goal*: Analyzing the function-based branches of malware communicating 
+          with C2 servers to track C2 traffic at the application level rather 
+          than the monitoring networks.
+     -    Applying symbolic execution starting from functions that receive data (e.g., recv, read) 
+          to generate data needed to reach the final function based on its specific functionality.
+     -    Utilizing C2 server traffic data for the Cyber A&D Training System.
+     -    Keywords: Malware Traffic, Symbolic Execution, Concolic Execution, Taint Analysis, Malware Analysis, 
+          MITRE ATT&CK, C2 Dataset
+     -    Frameworks/Tools: IDA, Triton, Windbg, MITRE ATT&CK
+     -    Language: Python, C/C++
 
 
-###  **Development of a Cyber A&D Training System** 
--    *Jul. 2018 – Feb. 2019*
-
--    Goal: Developed an A&D Training System enabling cyber attack, defense, and response training.
--    Developed strategies for training scenarios, scoring methods, and post-training debriefing approaches.
--    Collected and analyzed various types of malware (e.g., C2 communication) to build a training dataset.
--    Keywords: A&D Training, Training Dataset, Scenario, Evaluation
+-    **Development of a Cyber A&D Training System** (*Jul. 2018 – Feb. 2019*)
+     -    *Goal*: Developed an A&D Training System enabling cyber attack, defense, and response training.
+     -    Developed strategies for training scenarios, scoring methods, and post-training debriefing approaches.
+     -    Collected and analyzed various types of malware (e.g., C2 communication) to build a training dataset.
+     -    Keywords: A&D Training, Training Dataset, Scenario, Evaluation
 
 
 
@@ -141,8 +137,8 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 -   *The analysis of bitcoin wallet artifacts* / **Jungun Ahn**, Sangjin Lee / 디지털포렌식연구 16.2 (2022): 74-85.
 
 ### **Poster**
--   *안티바이러스 취약점 분석 방법 및 주요 보안 문제*
--   *전형린, 김도연, 김도혁, **안정언**, 오우진, 이상진, 이승진, 한승훈 (KITRI BoB)* / 2017 한국정보보호학회 동계학술대회.
+-   *안티바이러스 취약점 분석 방법 및 주요 보안 문제* / 전형린, 김도연, 김도혁, **안정언**, 오우진, 이상진, 이승진, 한승훈 (KITRI BoB) / 
+     2017 한국정보보호학회 동계학술대회.
 
 
 ## Other Experiences
