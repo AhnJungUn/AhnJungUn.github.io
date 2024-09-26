@@ -157,7 +157,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 
 |:------------------------------------------------------------------------------|----------------------:|
 | **Presentation : Technical Countermeasures Against Illicit Streaming Device** | **Jun. 2024**         |
-| *Countermeasures for EVPAD and Tasks for International Collaborative Investigations  | *Hosted by KIISC*     |
+| *Countermeasures for EVPAD and Tasks for International Collaborative Investigations*  | *Hosted by KIISC*     |
 
 
 |:----------------------------------------------------|----------------------:|
