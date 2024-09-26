@@ -109,6 +109,7 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 | **Hacking**                                 |                      |
 |:--------------------------------------------|---------------------:|
 | *Defcon CTF 2024* : **Final**               | *Team : Cold Fusion* |
+| *Cybernet 2024* : **1st** Prize             |                      |
 | *CCE 2023* : **3rd** Prize                  | *public sector*      |
 | *CCE 2022* : **4th** Place                  | *public sector*      |
 | *CCE 2021* : **5th** Place                  | *public sector*      |
@@ -126,7 +127,6 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 |:--------------------------------------------|---------------------:|
 | **Others**                                  |                      |
 |:--------------------------------------------|---------------------:|
-| *Cybernet 2024* : **1st** Prize             |                      |
 | *AIXCC 2024* : **Semi-Finals**              | *Team : KORIA*       |
 | *Splunk BOSS 2022* : **7th** Place          |                      |
 
@@ -147,25 +147,26 @@ I am a captain of the **R.O.K. Airforce** and a Ph.D. student at **Korea Univers
 |:----------------------------------------|--------------------------------:|
 | **Bug Huntings**                        |                                 |
 |:----------------------------------------|--------------------------------:|
-| *KVE-2024-1111*                         | *Reported to KISA*              |
-| *KVE-2024-1111*                         | *Reported to KISA*              |
-| *KVE-2024-1111*                         | *Reported to KISA*              |
-| *KVE-2024-1111*                         | *Reported to KISA*              |
-| *KVE-2024-1111*                         | *Reported to KISA*              |
-| *KVE-2024-1111*                         | *Reported to KISA*              |
-| *KVE-2024-1111*                         | *Reported to KISA*              |
-| *KVE-2024-1111*                         | *Reported to KISA*              |
-| *KVE-2024-1111*                         | *Reported to KISA*              |
+| *KVE-2024-0078*                         | *Reported to KISA*              |
+| *KVE-2024-0189*                         | *Reported to KISA*              |
+| *KVE-2024-0190*                         | *Reported to KISA*              |
+| *KVE-2024-0207*                         | *Reported to KISA*              |
+| *KVE-2024-0230*                         | *Reported to KISA*              |
+| *KVE-2024-0334*                         | *Reported to KISA*              |
 
 
-|:--------------------------------------------------|----------------------:|
-| **Presented an Analysis of Galaxy S7 Bootloader** | **Nov. 13, 2019**     |
-| *Digital Forensic Challenge workshop 2019*        | *Hosted by KIISC*     |
+|:------------------------------------------------------------------------------|----------------------:|
+| **Presentation : Technical Countermeasures Against Illicit Streaming Device** | **Jun. 2024**         |
+| *Countermeasures for EVPAD and Tasks for International Collaborative Investigations  | *Hosted by KIISC*     |
 
+
+|:----------------------------------------------------|----------------------:|
+| **Presentation : Analysis of Galaxy S7 Bootloader** | **Nov. 13, 2019**     |
+| *Digital Forensic Challenge workshop 2019*          | *Hosted by KIISC*     |
 
 |:----------------------------------------------|--------------------------:|
 | **BoB(Best of the Best) Top 30**              | **Jul. 2017 – Mar. 2018** |
-| *participant*                                 | *Sponsored by KITRI*      |
+| *Vulnerability Analysis Track*                | *Sponsored by KITRI*      |
 
 -    **Find vulnerabilites in Anti-Virus Programs** (*Sep. 2017 – Dec. 2017*)
      -    *Target* : V3, Virobot, Alyac
